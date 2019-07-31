@@ -14,3 +14,7 @@ M --> *FM | ε
 F --> (E) | id
 <br/>
 start writing a string in this program and if it belongs to the grammer it'll be accepted otherwise you'll face with an error!
+<br/>
+try this string and it should be accepted
+<br/>
+id*id+(id)+id*(id)+id*id+(id)
