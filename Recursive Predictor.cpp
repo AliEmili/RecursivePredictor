@@ -16,6 +16,8 @@ void F();
 int main(){
 	lookhead = getche();
 	E();
+	cout<<"\nAccepted"<<endl;
+	getch();
 	return 0;
 }
 void match(char symbol){
